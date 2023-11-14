@@ -1,0 +1,41 @@
+[{
+        "postName": "Development",
+        "posts": ["Web Development", "Mobile Development", "Data Science"]
+    },
+    {
+        "postName": "Business",
+        "posts": ["Entrepreneurship", "Communications", "Management"]
+    },
+    {
+        "postName": "Finance & Accounting",
+        "posts": ["Accounting & Bookkepping", "Compliance", "Cryptocurrency & Blockchain"]
+    },
+    {
+        "postName": "IT Software",
+        "posts": ["IT Certifications", "Network & Seccurity", "Hardware"]
+    },
+    {
+        "postName": "Office Productivity",
+        "posts": ["Microsoft", "Apple", "Google"]
+    },
+    {
+        "postName": "Personal Development",
+        "posts": ["Personal Transformation", "Personal Productivity", "Leadership"]
+    },
+    {
+        "postName": "Design",
+        "posts": ["Web Design", "Graphic Design & Illustration", "Design Tools"]
+    },
+    {
+        "postName": "Marketing",
+        "posts": ["Digital Maketing", "Search Engine Optimalization", "Social Media Marketing"]
+    },
+    {
+        "postName": "Lifestyle",
+        "posts": ["Art & Crafts", "Beauty & Makeup", "Esoteric Practices"]
+    },
+    {
+        "postName": "Photography & Video",
+        "posts": ["Digital Photography", "Photography", "Potrait Photography"]
+    }
+]

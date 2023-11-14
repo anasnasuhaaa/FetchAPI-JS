@@ -1,0 +1,33 @@
+{
+    "categories": [{
+            "name": "Development"
+        },
+        {
+            "name": "Business"
+        },
+        {
+            "name": "Finance & Accounting"
+        },
+        {
+            "name": "IT & Software"
+        },
+        {
+            "name": "Office Productivity"
+        },
+        {
+            "name": "Personal Development"
+        },
+        {
+            "name": "Design"
+        },
+        {
+            "name": "Marketing"
+        },
+        {
+            "name": "Lifestyle"
+        },
+        {
+            "name": "Photography & Video"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "postingan": [{
+            "Development": [
+                "Web Development",
+                "Data Science",
+                "Mobile Development"
+            ]
+        },
+        {
+
+            "Business": [
+                "Entrepreneurship",
+                "Communications",
+                "Managements"
+            ]
+        },
+
+        {
+            "Finance & Accounting": [
+                "Accounting & Bookkepping",
+                "Compliance",
+                "Cryptocurrency & Blockchain"
+            ]
+        },
+        {
+            "IT & Software": [
+                "IT Certifications",
+                "Network & Seccurity",
+                "Hardware"
+            ]
+        },
+        {
+            "Office Productivity": [
+                "Microsoft",
+                "Apple",
+                "Google"
+            ]
+        },
+        {
+            "Personal Development": [
+                "Personal Transformation",
+                "Personal Productivity",
+                "Leadership"
+            ]
+        },
+        {
+            "Design": [
+                "Web Design",
+                "Grraphic Desing & Illustration",
+                "Design Tools"
+            ]
+        },
+        {
+            "Marketing": [
+                "Digital Marketing",
+                "Search Engine Optimalization",
+                "Social Media Marketing"
+            ]
+        }, {
+            "Lifestyle": [
+                "Arts & Crafts",
+                "Beauty & Makeup",
+                "Esoteric Practices"
+            ]
+        }
+    ]
+
+
+
+
+
+
+}
